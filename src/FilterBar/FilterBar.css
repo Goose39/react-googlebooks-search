@@ -1,0 +1,10 @@
+.filter_bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: aliceblue;
+}
+
+.book_types_filter, .print_types_filter {
+  margin: 10px 10px;
+}

@@ -1,0 +1,12 @@
+.book_row {
+  display: flex;
+  flex-direction: row;
+}
+
+.author {
+  margin: 0px;
+}
+
+.title  {
+  margin-bottom: 0px;
+}
